@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1295704180 source:z:\final_chess_programming_on_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
